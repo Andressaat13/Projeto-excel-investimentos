@@ -4,9 +4,9 @@ Este projeto consiste  em uma planilha interativa desenvolvida no Microsoft Exce
 Simulador de Investimentos no Excel
 
 ##  Funcionalidades 
-- ** Definições de Salario : Rendimentos da carteira
-- ** Investimentos Mensal : Cálculo de patrimônio e rendimentos
-- ** Cenários : Projeção de rendimentos e dividendos
+-**Definições de Salario** : Rendimentos da carteira
+- **Investimentos Mensai** : Cálculo de patrimônio e rendimentos
+- **Cenários** : Projeção de rendimentos e dividendos
 
 
     ## Arquivos
